@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+
+
+
+<link rel="stylesheet" href="./app.css" />
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
+</head>
+<body class="page container">
+    <div class="image container"></div>
+    <div class="test-container container">
+            <div class="vopros">
+            <h3 class="vopros-text"></h3>
+           
+        </div>
+        <div class="otvet-variant container">
+            <p class="text1 btn btn-warning  btn-margin display-none"></p>
+            <p class="text2  btn btn-warning btn-margin  display-none"></p>
+            <p class="text3  btn  btn-warning  btn-margin display-none"></p>
+        </div>
+        
+        <div class="otvet">
+            <button type="button" class="text4 btn btn-warning btn-margin"></button>
+            <button type="button" class="text5 btn btn-warning btn-margin"></button>
+            <button type="button" class="text6 btn btn-warning btn-margin"></button>
+        </div>
+        <div class="otvet-proverka" >
+        <button class="proverka btn btn-success">Проверить</button>
+    </div>
+</div>
+
+<div class="result-container container display-none">
+     <div class="alert alert-success"  role="alert">
+ Поздравляем, вы успешно прошли тест. </div>
+    
+
+   <p class="result"></p>
+   <button class="start-over btn btn-success">Пройти тест заново</button>
+   
+    </div>
+
+<script src="./index.js"></script>
+</body>
+</html>
