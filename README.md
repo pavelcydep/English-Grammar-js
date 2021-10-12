@@ -23,9 +23,9 @@ demo:https://pavelcydep.github.io/English-Grammar-js/
 
 Стек технологий
 ===============
-![alt text]()  
+![alt text](js css.png)  
 
- ![alt text]()
+
  
 
 
