@@ -23,7 +23,7 @@ demo:https://pavelcydep.github.io/English-Grammar-js/
 
 Стек технологий
 ===============
-![alt text](js css.png)  
+![alt text](js%20css.png)  
 
 
  
