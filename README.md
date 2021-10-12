@@ -17,7 +17,7 @@ demo:https://pavelcydep.github.io/English-Grammar-js/
 ### Склонировать проект на ПК:
 
     git clone 
-![alt text]()   
+![alt text](https://github.com/pavelcydep/English-Grammar-js.git)   
 
 
 
